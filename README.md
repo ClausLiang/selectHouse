@@ -1,6 +1,6 @@
-# fe-select-room-client
+# selectHouse
 
-> 在线选房前台
+> 在线选房webapp
 
 ## Build Setup
 
